@@ -38,6 +38,5 @@ porque esta sera nuestra base de datos local, luego de a ver realizado y no teng
 
 - Login y Sign-up BIOMETRIC
   
-![image](https://github.com/Isracraxcker/FacesRecognition/assets/133439166/f77dae9b-654c-4b3b-bde0-d5343c4f9f78)
 
 
